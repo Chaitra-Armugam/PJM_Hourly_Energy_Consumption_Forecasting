@@ -1,8 +1,8 @@
 # ⚡ PJM Hourly Energy Consumption Forecasting
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pjm-hourly-energy-consumption-forecasting.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pjmw-forecast.streamlit.app/)
 
-🔗 **Live app:** [https://pjm-hourly-energy-consumption-forecasting.streamlit.app/](https://pjm-hourly-energy-consumption-forecasting.streamlit.app/)
+🔗 **Live app:** [https://pjmw-forecast.streamlit.app/](https://pjmw-forecast.streamlit.app/)
 
 Hourly electricity demand forecasting for **PJM West (PJMW, in MW)** with a **30-day forecast**, built as a time-series project in Jupyter and deployed as a **Streamlit** app.
 
